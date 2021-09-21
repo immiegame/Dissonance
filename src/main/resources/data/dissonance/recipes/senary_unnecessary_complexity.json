@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "DPD",
+    " O "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "D": {
+      "item": "dissonance:quinary_unnecessary_complexity"
+    },
+    "P": {
+      "item": "minecraft:packed_ice"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "dissonance:senary_unnecessary_complexity",
+    "count": 1
+  }
+}

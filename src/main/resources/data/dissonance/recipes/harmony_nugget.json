@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dissonance:harmony_ingot"
+    }
+  ],
+  "result": {
+    "item": "dissonance:harmony_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    {
+      "item": "dissonance:harmony_nugget"
+    }
+  ],
+  "result": {
+    "item": "minecraft:shulker_shell",
+    "count": 1
+  }
+}

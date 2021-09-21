@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "dissonance:ms_harmony"
+  },
+  "addition": {
+    "item": "dissonance:dissonant_ingot"
+  },
+  "result": {
+    "item": "dissonance:the_mighty_pointy_stick"
+  }
+}

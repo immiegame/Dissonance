@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "PFP",
+    "PFP"
+  ],
+  "key": {
+    "#": {
+      "item": "dissonance:tertiary_unnecessary_complexity"
+    },
+    "B": {
+      "item": "minecraft:bread"
+    },
+    "P": {
+      "item": "minecraft:pink_glazed_terracotta"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    }
+  },
+  "result": {
+    "item": "dissonance:quaternary_unnecessary_complexity",
+    "count": 1
+  }
+}

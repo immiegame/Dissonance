@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gDg",
+    "DED",
+    "gDg"
+  ],
+  "key": {
+    "g": {
+      "item": "dissonance:dissonant_ingot"
+    },
+    "D": {
+      "item": "dissonance:duodenary_unnecessary_complexity"
+    },
+    "E": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "dissonance:unstable_currency",
+    "count": 2
+  }
+}

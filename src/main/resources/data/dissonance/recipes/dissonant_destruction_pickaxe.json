@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "dissonance:harmony_hyper_pickaxe"
+  },
+  "addition": {
+    "item": "dissonance:dissonant_ingot"
+  },
+  "result": {
+    "item": "dissonance:dissonant_destruction_pickaxe"
+  }
+}

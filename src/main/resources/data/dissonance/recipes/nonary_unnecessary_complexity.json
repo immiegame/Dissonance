@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "MDM",
+    "LDL"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "M": {
+      "item": "minecraft:melon"
+    },
+    "D": {
+      "item": "dissonance:octonary_unnecessary_complexity"
+    },
+    "L": {
+      "item": "minecraft:lilac"
+    }
+  },
+  "result": {
+    "item": "dissonance:nonary_unnecessary_complexity",
+    "count": 1
+  }
+}

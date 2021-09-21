@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "DCD",
+    "BBB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone_button"
+    },
+    "D": {
+      "item": "dissonance:secondary_unnecessary_complexity"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "B": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "result": {
+    "item": "dissonance:tertiary_unnecessary_complexity",
+    "count": 1
+  }
+}

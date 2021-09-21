@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+    "DGD",
+    "#D#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:beacon"
+    },
+    "D": {
+      "item": "dissonance:denary_unnecessary_complexity"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "dissonance:elevenary_unnecessary_complexity",
+    "count": 1
+  }
+}

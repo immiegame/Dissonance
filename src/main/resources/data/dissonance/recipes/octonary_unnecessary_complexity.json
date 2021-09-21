@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "PDP",
+    "PDP"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:tnt"
+    },
+    "P": {
+      "item": "minecraft:purpur_block"
+    },
+    "D": {
+      "item": "dissonance:septenary_unnecessary_complexity"
+    }
+  },
+  "result": {
+    "item": "dissonance:octonary_unnecessary_complexity",
+    "count": 1
+  }
+}

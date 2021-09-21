@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " HS",
+    "HCH",
+    "SH "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "H": {
+      "item": "dissonance:harmony_ingot"
+    },
+    "C": {
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  },
+  "result": {
+    "item": "dissonance:mr_stick",
+    "count": 1
+  }
+}

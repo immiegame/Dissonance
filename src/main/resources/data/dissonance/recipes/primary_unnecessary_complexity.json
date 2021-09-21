@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "PIP",
+    "NSW"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lever"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "I": {
+      "item": "dissonance:harmony_nugget"
+    },
+    "N": {
+      "item": "minecraft:nether_wart_block"
+    },
+    "S": {
+      "item": "minecraft:shroomlight"
+    },
+    "W": {
+      "item": "minecraft:warped_wart_block"
+    }
+  },
+  "result": {
+    "item": "dissonance:primary_unnecessary_complexity",
+    "count": 1
+  }
+}

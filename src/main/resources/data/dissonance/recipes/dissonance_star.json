@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "#N#",
+    "#V#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:soul_soil"
+    },
+    "P": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "V": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "dissonance:dissonance_star",
+    "count": 1
+  }
+}

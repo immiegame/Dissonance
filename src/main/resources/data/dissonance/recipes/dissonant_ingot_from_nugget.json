@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dissonance:dissonant_nugget"
+    },
+    {
+      "item": "dissonance:dissonant_nugget"
+    },
+    {
+      "item": "dissonance:dissonant_nugget"
+    },
+    {
+      "item": "dissonance:dissonant_nugget"
+    },
+    {
+      "item": "dissonance:dissonant_nugget"
+    },
+    {
+      "item": "dissonance:dissonant_nugget"
+    },
+    {
+      "item": "dissonance:dissonant_nugget"
+    },
+    {
+      "item": "dissonance:dissonant_nugget"
+    },
+    {
+      "item": "dissonance:dissonant_nugget"
+    }
+  ],
+  "result": {
+    "item": "dissonance:dissonant_ingot",
+    "count": 1
+  }
+}

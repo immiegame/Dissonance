@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#DG",
+    "YSI",
+    "PRJ"
+  ],
+  "key": {
+    "#": {
+      "item": "dissonance:first_harmony_fragment"
+    },
+    "D": {
+      "item": "dissonance:second_harmony_fragment"
+    },
+    "G": {
+      "item": "dissonance:third_harmony_fragment"
+    },
+    "Y": {
+      "item": "dissonance:fourth_harmony_fragment"
+    },
+    "S": {
+      "item": "dissonance:dissonance_star"
+    },
+    "I": {
+      "item": "dissonance:fifth_harmony_fragment"
+    },
+    "P": {
+      "item": "dissonance:sixth_harmony_fragment"
+    },
+    "R": {
+      "item": "dissonance:seventh_harmony_fragment"
+    },
+    "J": {
+      "item": "dissonance:eighth_harmony_fragment"
+    }
+  },
+  "result": {
+    "item": "dissonance:harmony_ingot",
+    "count": 1
+  }
+}

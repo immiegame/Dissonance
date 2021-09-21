@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#D#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "D": {
+      "item": "dissonance:duodenary_unnecessary_complexity"
+    }
+  },
+  "result": {
+    "item": "dissonance:dissonant_ingot",
+    "count": 1
+  }
+}

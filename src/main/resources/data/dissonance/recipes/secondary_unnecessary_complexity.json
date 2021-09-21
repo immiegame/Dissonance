@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #",
+    "HD",
+    " H"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "D": {
+      "item": "dissonance:primary_unnecessary_complexity"
+    }
+  },
+  "result": {
+    "item": "dissonance:secondary_unnecessary_complexity",
+    "count": 1
+  }
+}

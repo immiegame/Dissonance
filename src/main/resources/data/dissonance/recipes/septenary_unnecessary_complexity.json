@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "DDD",
+    "BFB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cactus"
+    },
+    "D": {
+      "item": "dissonance:senary_unnecessary_complexity"
+    },
+    "B": {
+      "item": "minecraft:blue_ice"
+    },
+    "F": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "result": {
+    "item": "dissonance:septenary_unnecessary_complexity",
+    "count": 1
+  }
+}

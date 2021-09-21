@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dissonance:dissonant_block"
+    }
+  ],
+  "result": {
+    "item": "dissonance:dissonant_ingot",
+    "count": 9
+  }
+}

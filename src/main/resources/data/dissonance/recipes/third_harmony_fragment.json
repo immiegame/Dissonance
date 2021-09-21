@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "C",
+    "L"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "C": {
+      "item": "minecraft:coal_block"
+    },
+    "L": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "result": {
+    "item": "dissonance:third_harmony_fragment",
+    "count": 1
+  }
+}

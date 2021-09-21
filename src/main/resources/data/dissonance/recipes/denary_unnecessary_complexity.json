@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+    "DSD",
+    "#D#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "dissonance:nonary_unnecessary_complexity"
+    },
+    "S": {
+      "item": "minecraft:dropper"
+    }
+  },
+  "result": {
+    "item": "dissonance:denary_unnecessary_complexity",
+    "count": 1
+  }
+}

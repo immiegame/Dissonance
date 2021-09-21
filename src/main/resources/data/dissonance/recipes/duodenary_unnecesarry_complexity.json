@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+    "DPD",
+    "#D#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dragon_egg"
+    },
+    "D": {
+      "item": "dissonance:elevenary_unnecessary_complexity"
+    },
+    "P": {
+      "item": "minecraft:dragon_head"
+    }
+  },
+  "result": {
+    "item": "dissonance:duodenary_unnecessary_complexity",
+    "count": 1
+  }
+}
